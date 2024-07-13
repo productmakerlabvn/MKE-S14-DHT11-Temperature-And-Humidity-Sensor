@@ -31,7 +31,6 @@ Cảm biến độ ẩm nhiệt độ MKE-S14 DHT11 Temperature and Humidity Sen
 ## Kích thước sản phẩm
 
 ![MKE_S14](/image/MKE_S14_3.jpg)
-![MKE_S14](/image/MKE_S14_4.jpg)
 
 ## Các chân tín hiệu
 
